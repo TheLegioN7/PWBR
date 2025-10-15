@@ -1,0 +1,13 @@
+# PyInstaller
+dist/
+build/
+
+# PyCharm/IntelliJ IDEA
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
