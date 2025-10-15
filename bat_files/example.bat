@@ -1,0 +1,1 @@
+start elementclient.exe startbypatcher console:1 nocheck user:USER pwd:PASSWORD role:NAME
